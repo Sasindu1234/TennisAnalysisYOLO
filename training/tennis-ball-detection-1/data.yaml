@@ -1,0 +1,12 @@
+names:
+- tennis ball
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ball-detection-ek8oh
+  url: https://universe.roboflow.com/learning-w6hb2/tennis-ball-detection-ek8oh/dataset/1
+  version: 1
+  workspace: learning-w6hb2
+test: ../test/images
+train: tennis-ball-detection-1/train/images
+val: tennis-ball-detection-1/valid/images
